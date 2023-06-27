@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from './style'
 import { Navbar, Hero, Stats, Business, CardDeal, Testimonials, Clients, CTA, Footer } from './components';
 
